@@ -17,7 +17,7 @@ public class Run {
         double resultado = peso / (altura * altura);
         int resultado2 = (int)resultado;
 
-        System.out.println("Resultados:");
+        System.out.println("Resultados :");
         System.out.println("El IMC entero es: " + resultado2);
         System.out.println("El IMC double es: " + resultado);
         scanner.close();
