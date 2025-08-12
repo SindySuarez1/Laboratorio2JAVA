@@ -19,6 +19,7 @@ public class Run {
 
         System.out.println("El IMC entero es: " + resultado2);
         System.out.println("El IMC double es: " + resultado);
+        scanner.close();
 
 
     }
